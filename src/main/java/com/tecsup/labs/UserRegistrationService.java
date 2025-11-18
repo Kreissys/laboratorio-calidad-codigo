@@ -1,4 +1,4 @@
-package pe.com.tecsup.labs;
+package com.tecsup.labs;
 
 import java.util.ArrayList;
 import java.util.List;
