@@ -1,11 +1,11 @@
-# 📊 Laboratorio N°14: Pruebas Estáticas e Integración Continua
+#  Laboratorio N°14: Pruebas Estáticas e Integración Continua
 
 > **Curso:** Construcción y Pruebas de Software | **Ciclo:** IV | **Fecha:** 17/11/2025  
 > **Integrantes:** [Carlos Alberto LLano Flores] - [Jimenez Araos Sergio]
 
 ---
 
-## 🔍 1. Problemas Detectados
+##  1. Problemas Detectados
 
 **Checkstyle identificó 31 violaciones:**
 
@@ -21,29 +21,29 @@
 ## ✅ 2. Cambios Realizados
 
 ### Documentación
-- ✔️ Javadoc completo en clases/métodos con `@param` y `@return`
-- ✔️ Archivo `package-info.java` creado
+-  Javadoc completo en clases/métodos con `@param` y `@return`
+-  Archivo `package-info.java` creado
 
 ### Encapsulación
-- ✔️ Campo privado `lastErrorMessage` con getter
-- ✔️ Lista tipada: `List<String>`
-- ✔️ Constructor privado en clase utilitaria `Main`
+-  Campo privado `lastErrorMessage` con getter
+-  Lista tipada: `List<String>`
+-  Constructor privado en clase utilitaria `Main`
 
 ### Calidad del Código
-- ✔️ Parámetros marcados como `final`
-- ✔️ Método renombrado: `x()` → `calculateStringLength()`
-- ✔️ Validación null: `username == null ||`
-- ✔️ Lógica email corregida: `&&` → `||`
-- ✔️ Código duplicado eliminado
+-  Parámetros marcados como `final`
+-  Método renombrado: `x()` → `calculateStringLength()`
+-  Validación null: `username == null ||`
+-  Lógica email corregida: `&&` → `||`
+-  Código duplicado eliminado
 
 ### Formato
-- ✔️ Líneas <80 caracteres
-- ✔️ Sin espacios finales
-- ✔️ Salto de línea al final
+-  Líneas <80 caracteres
+-  Sin espacios finales
+-  Salto de línea al final
 
 ---
 
-## 💡 3. Conclusiones
+##  3. Conclusiones
 
 ### Detección Temprana
 Las pruebas estáticas identifican errores **antes de ejecutar**, previniendo `NullPointerException` y otros bugs.
