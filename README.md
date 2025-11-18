@@ -69,6 +69,6 @@ Checkstyle asegura conformidad con **Google Java Style Guide**, facilitando inte
 
 **Repositorio:** [`github.com/[Kreissys]/laboratorio-calidad-codigo`](https://github.com/Kreissys/laboratorio-calidad-codigo)  
 **Fork:** [`github.com/[SerJimenez1]/laboratorio-calidad-codigo`](https://github.com/Kreissys/laboratorio-calidad-codigo-2)  
-**Pull Request:** [#1](https://github.com/Kreissys/laboratorio-calidad-codigo/pull/1)
+**Pull Request:** [#1](https://github.com/Kreissys/laboratorio-calidad-codigo-2/pull/1)
 
 **Pipeline CI:** ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) `✅ 0 violaciones`
